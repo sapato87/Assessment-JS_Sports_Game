@@ -1,8 +1,3 @@
-// get elements for team 1 and assign them to variables
-// team 1 shots taken goals and the shoot button
-// add evenlistener for the button
-// shoot taken increase with button click
-// goals sometimes increase based on random outcome
 let teamoneShootButton = document.querySelector("#teamone-shoot-button")
 let teamoneNumshots = document.querySelector("#teamone-numshots")
 let teamoneNumgoals = document.querySelector("#teamone-numgoals")
